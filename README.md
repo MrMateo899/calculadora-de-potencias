@@ -4,4 +4,4 @@ Este va a ser mi primer proyecto, por ahora no tengo mucho que decir, solo puedo
 
 
 
-*Aun está en una fase temprana, mis conocimientos no son realmente buenos, pero espero mejorarlos bastante con este proyecto.*
+###### *Aun está en una fase temprana, mis conocimientos no son realmente buenos, pero espero mejorarlos bastante con este proyecto.*
