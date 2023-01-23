@@ -1,5 +1,10 @@
-bas = int(input('Inserte la base: '))
-exp = int(input('Inserte el exponente: '))
+from tkinter import *
+
+raiz=Tk=()
+raiz.mainloop
+
+bas = int(input('Inserte una base: '))
+exp = int(input('Inserte un exponente: '))
 
 if exp > 3:
     print(f'{bas} elevado a {exp} es igual a:', bas**exp)
