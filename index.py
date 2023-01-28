@@ -1,8 +1,3 @@
-from tkinter import *
-
-raiz=Tk=()
-raiz.mainloop
-
 bas = int(input('Inserte una base: '))
 exp = int(input('Inserte un exponente: '))
 
