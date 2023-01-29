@@ -7,3 +7,5 @@ elif exp == 3:
     print(f'{bas} al cubo es igual a:', bas**3)
 else :
     print(f'{bas} elevado a {exp} es igual a:', bas**exp)
+
+# ESTO ES INESCESARIO (O ESO CREO)
